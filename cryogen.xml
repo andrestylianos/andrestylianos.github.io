@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://andrestylianos.github.io/' rel='self' type='application/rss+xml'/>
+<title>
+Stylianos' Blog
+</title>
+<link>
+http://andrestylianos.github.io/
+</link>
+<description>
+A blog about programming in general
+</description>
+<lastBuildDate>
+Sun, 06 May 2018 21:08:33 +0200
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+</channel>
+</rss>
